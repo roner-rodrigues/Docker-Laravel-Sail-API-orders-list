@@ -571,3 +571,12 @@
 [21] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
 [21] Log closed at 2023-05-29 01:53:23.191871
 
+[21] Log opened at 2023-05-29 02:22:06.079287
+[21] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[21] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[21] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-29 02:22:17.974369
+
