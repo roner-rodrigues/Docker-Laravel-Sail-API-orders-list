@@ -1,0 +1,29 @@
+Nosso desafio é a criação de uma API de lista de compras em PHP.
+
+Funcionalidades:
+
+    Criar uma lista de compras;
+    Adicionar e remover produtos à lista;
+    Obter dados de uma lista;
+    Adicionar e diminuir quantidades de um produto;
+    Duplicar uma lista.
+
+Entidades:
+
+    Lista de compras: Uma lista com título e listas de produtos;
+    Produto: Nome do produto e quantidade de itens na lista.
+
+O que será avaliado:
+
+    Bom uso de orientação a objetos;
+    Design Patterns;
+    Arquitetura da aplicação;
+    Documentação de instalação;
+    Bônus: Coleção do postman com as chamadas dos endpoints;
+    Bônus: Otimização do relacionamento entre entidades.
+
+Está liberado o uso de qualquer framework ou microframework. Além de qualquer biblioteca.
+
+Não há a necessidade de construir uma infraestrutura, a API pode ser servida pela servidor web embutido do PHP.
+
+Não é necessária a entrega de todas as funcionalidades. É importante entender o tempo disponível para realização do desafio e que possamos avaliar os pontos que foram solicitados.

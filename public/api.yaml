@@ -1,0 +1,48 @@
+openapi: 3.0.1
+info:
+  title: Nome da API
+  description: Descrição da API
+  version: "1.0.0"
+
+servers:
+  - url: https://api.seudominio.com/v1
+
+paths:
+  /lista-de-compras:
+    get:
+      summary: Retorna uma lista de compras.
+      responses:
+        '200':
+          description: Uma lista de compras.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ListaDeCompras'
+    post:
+      summary: Cria uma nova lista de compras.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ListaDeCompras'
+      responses:
+        '200':
+          description: Lista de compras criada com sucesso.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ListaDeCompras'
+components:
+  schemas:
+    ListaDeCompras:
+      type: object
+      properties:
+        id:
+          type: integer
+          description: ID único da lista de compras.
+        titulo:
+          type: string
+          description: Título da lista de compras.

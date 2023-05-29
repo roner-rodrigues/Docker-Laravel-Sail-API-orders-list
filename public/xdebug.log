@@ -1,0 +1,1875 @@
+[27] Log opened at 2023-05-27 19:50:37.205989
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 19:50:45.399308
+
+[27] Log opened at 2023-05-27 20:12:17.352852
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 20:12:25.307029
+
+[27] Log opened at 2023-05-27 20:12:25.321632
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 20:12:33.214741
+
+[27] Log opened at 2023-05-27 21:01:13.148800
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:01:26.125289
+
+[27] Log opened at 2023-05-27 21:02:07.799777
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:02:15.863672
+
+[27] Log opened at 2023-05-27 21:02:41.119578
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:02:50.219260
+
+[27] Log opened at 2023-05-27 21:20:02.342376
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:20:14.186529
+
+[27] Log opened at 2023-05-27 21:24:38.072995
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:24:45.543964
+
+[27] Log opened at 2023-05-27 21:26:34.974850
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:26:43.893066
+
+[27] Log opened at 2023-05-27 21:26:49.418520
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:26:57.807204
+
+[27] Log opened at 2023-05-27 21:28:13.479068
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:28:18.077894
+
+[27] Log opened at 2023-05-27 21:34:23.224123
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:34:32.361110
+
+[27] Log opened at 2023-05-27 21:35:29.753595
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:35:38.443717
+
+[27] Log opened at 2023-05-27 21:37:06.888642
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 21:37:15.438575
+
+[27] Log opened at 2023-05-27 22:09:38.011409
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:09:56.459042
+
+[27] Log opened at 2023-05-27 22:10:39.474832
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:10:57.141971
+
+[27] Log opened at 2023-05-27 22:27:50.610325
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:28:01.839970
+
+[27] Log opened at 2023-05-27 22:28:08.159814
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:28:16.762178
+
+[27] Log opened at 2023-05-27 22:29:16.911568
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:29:21.776958
+
+[27] Log opened at 2023-05-27 22:32:06.644664
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:32:19.441660
+
+[27] Log opened at 2023-05-27 22:35:12.926063
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:35:25.036348
+
+[27] Log opened at 2023-05-27 22:35:53.473034
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:36:03.211804
+
+[27] Log opened at 2023-05-27 22:36:16.145361
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:36:21.527314
+
+[27] Log opened at 2023-05-27 22:36:21.552191
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:36:28.653382
+
+[27] Log opened at 2023-05-27 22:36:59.609444
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:37:09.291343
+
+[27] Log opened at 2023-05-27 22:37:55.227387
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:38:01.483036
+
+[27] Log opened at 2023-05-27 22:38:27.655035
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:38:36.966576
+
+[27] Log opened at 2023-05-27 22:38:39.611810
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.144.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.144.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 192.168.144.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:38:44.120811
+
+[27] Log opened at 2023-05-27 22:50:49.284106
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.160.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.160.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.160.1:9003 (from REMOTE_ADDR HTTP header), 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.160.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.160.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.160.1:9003 (from REMOTE_ADDR HTTP header), 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:51:00.774087
+
+[27] Log opened at 2023-05-27 22:51:15.300779
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.160.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.160.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.160.1:9003 (from REMOTE_ADDR HTTP header), 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[27] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[27] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[27] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.160.1:9003.
+[27] [Step Debug] WARN: Creating socket for '192.168.160.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.160.1:9003 (from REMOTE_ADDR HTTP header), 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-27 22:51:18.585980
+
+[21] Log opened at 2023-05-27 23:56:44.145551
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-27 23:56:53.265252
+
+[21] Log opened at 2023-05-27 23:58:36.803115
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-27 23:58:48.017868
+
+[21] Log opened at 2023-05-27 23:59:00.574942
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-27 23:59:13.733307
+
+[21] Log opened at 2023-05-27 23:59:49.391077
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-27 23:59:54.238093
+
+[21] Log opened at 2023-05-27 23:59:54.249435
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-27 23:59:59.640409
+
+[21] Log opened at 2023-05-28 00:01:54.899911
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-28 00:02:06.992550
+
+[21] Log opened at 2023-05-28 00:05:14.474077
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-28 00:05:22.982615
+
+[21] Log opened at 2023-05-28 00:05:25.832989
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-28 00:05:37.410806
+
+[21] Log opened at 2023-05-28 00:06:26.100407
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2023-05-28 00:06:33.193696
+
+[27] Log opened at 2023-05-28 00:14:49.231151
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.18.10.94:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 172.18.10.94:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.18.10.94:9003.
+[27] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 172.18.10.94:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 00:15:04.343659
+
+[27] Log opened at 2023-05-28 00:37:42.556849
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 00:37:54.914769
+
+[27] Log opened at 2023-05-28 00:38:01.792146
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 00:38:13.309814
+
+[27] Log opened at 2023-05-28 00:52:23.491242
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 00:52:37.752610
+
+[27] Log opened at 2023-05-28 01:11:14.673201
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:11:25.982536
+
+[27] Log opened at 2023-05-28 01:13:27.585445
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:13:38.600419
+
+[27] Log opened at 2023-05-28 01:15:01.518399
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:15:12.315653
+
+[27] Log opened at 2023-05-28 01:18:17.831297
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:18:29.684307
+
+[27] Log opened at 2023-05-28 01:21:11.733871
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:21:23.083588
+
+[27] Log opened at 2023-05-28 01:24:24.035486
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:24:35.361264
+
+[27] Log opened at 2023-05-28 01:35:00.492873
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:35:11.706097
+
+[27] Log opened at 2023-05-28 01:38:10.288866
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:38:23.310716
+
+[27] Log opened at 2023-05-28 01:38:50.665134
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:39:01.435547
+
+[27] Log opened at 2023-05-28 01:41:25.996390
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:41:37.745555
+
+[27] Log opened at 2023-05-28 01:41:51.779323
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:42:01.547237
+
+[27] Log opened at 2023-05-28 01:44:52.132356
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:45:03.285437
+
+[27] Log opened at 2023-05-28 01:50:00.800964
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:50:12.064750
+
+[27] Log opened at 2023-05-28 01:54:23.862916
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 01:54:35.912702
+
+[27] Log opened at 2023-05-28 02:16:03.576219
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:16:26.480775
+
+[27] Log opened at 2023-05-28 02:24:27.090059
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:24:43.155791
+
+[27] Log opened at 2023-05-28 02:27:17.977002
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:27:31.538455
+
+[27] Log opened at 2023-05-28 02:29:46.862079
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:30:01.947577
+
+[27] Log opened at 2023-05-28 02:40:16.197583
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:40:24.576459
+
+[27] Log opened at 2023-05-28 02:43:37.230454
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:43:59.135533
+
+[27] Log opened at 2023-05-28 02:45:03.630904
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:45:27.431292
+
+[27] Log opened at 2023-05-28 02:54:02.399251
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:54:28.171803
+
+[27] Log opened at 2023-05-28 02:58:00.670644
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 02:58:29.610264
+
+[27] Log opened at 2023-05-28 03:02:56.103224
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:03:03.980873
+
+[27] Log opened at 2023-05-28 03:04:29.702689
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:04:38.317484
+
+[27] Log opened at 2023-05-28 03:05:15.685810
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:05:23.109680
+
+[27] Log opened at 2023-05-28 03:05:33.240871
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:05:37.894292
+
+[27] Log opened at 2023-05-28 03:32:01.962533
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:32:27.585748
+
+[27] Log opened at 2023-05-28 03:38:27.760002
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:38:53.591412
+
+[27] Log opened at 2023-05-28 03:41:27.807328
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:41:54.593923
+
+[27] Log opened at 2023-05-28 03:42:47.032408
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:43:22.294274
+
+[27] Log opened at 2023-05-28 03:46:26.947360
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:47:00.105581
+
+[27] Log opened at 2023-05-28 03:54:36.344758
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 03:55:08.214287
+
+[27] Log opened at 2023-05-28 04:08:11.264387
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 04:08:45.200211
+
+[27] Log opened at 2023-05-28 04:25:55.944203
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 04:26:05.454316
+
+[27] Log opened at 2023-05-28 04:33:36.170527
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 04:33:44.659989
+
+[27] Log opened at 2023-05-28 04:35:19.558731
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 04:35:27.751785
+
+[27] Log opened at 2023-05-28 05:15:35.913943
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 05:15:43.975227
+
+[27] Log opened at 2023-05-28 05:16:04.044937
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 05:16:11.522289
+
+[27] Log opened at 2023-05-28 05:29:12.214133
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 05:29:25.454072
+
+[27] Log opened at 2023-05-28 05:29:54.101660
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 05:30:05.463278
+
+[27] Log opened at 2023-05-28 05:30:20.673786
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 05:30:26.068730
+
+[27] Log opened at 2023-05-28 06:08:29.428426
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 06:08:45.149904
+
+[27] Log opened at 2023-05-28 06:13:08.735738
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 06:13:23.105116
+
+[27] Log opened at 2023-05-28 06:33:37.153148
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 06:33:52.326161
+
+[27] Log opened at 2023-05-28 06:35:03.628875
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 06:35:15.196963
+
+[27] Log opened at 2023-05-28 06:41:07.688250
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 06:41:22.067051
+
+[27] Log opened at 2023-05-28 06:43:15.312010
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 06:43:28.951522
+
+[27] Log opened at 2023-05-28 06:54:22.205195
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 06:54:37.138456
+
+[27] Log opened at 2023-05-28 07:01:50.471888
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 07:02:04.526852
+
+[27] Log opened at 2023-05-28 07:04:08.821846
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 07:04:22.895016
+
+[27] Log opened at 2023-05-28 07:35:56.834852
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 07:36:14.271779
+
+[27] Log opened at 2023-05-28 07:38:29.260969
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 07:38:45.012577
+
+[27] Log opened at 2023-05-28 07:38:57.734287
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 07:39:11.108548
+
+[27] Log opened at 2023-05-28 07:41:25.962095
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 07:43:34.636954
+
+[27] Log opened at 2023-05-28 08:25:03.073994
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:25:19.357015
+
+[27] Log opened at 2023-05-28 08:43:42.101546
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:43:52.493684
+
+[27] Log opened at 2023-05-28 08:44:28.456751
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:44:36.759183
+
+[27] Log opened at 2023-05-28 08:46:47.308187
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:46:57.127749
+
+[27] Log opened at 2023-05-28 08:47:20.469281
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:47:28.759456
+
+[27] Log opened at 2023-05-28 08:48:59.016697
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:49:05.458122
+
+[27] Log opened at 2023-05-28 08:49:11.903371
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:49:20.463207
+
+[27] Log opened at 2023-05-28 08:50:34.358614
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:50:39.629517
+
+[27] Log opened at 2023-05-28 08:51:07.589621
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:51:15.777203
+
+[27] Log opened at 2023-05-28 08:55:39.796517
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 08:55:49.449440
+
+[27] Log opened at 2023-05-28 09:08:06.201718
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:08:16.004582
+
+[27] Log opened at 2023-05-28 09:15:51.705208
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:16:02.569294
+
+[27] Log opened at 2023-05-28 09:16:49.369934
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:16:57.819958
+
+[27] Log opened at 2023-05-28 09:17:19.533193
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:17:24.950660
+
+[27] Log opened at 2023-05-28 09:31:05.946991
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:31:13.179063
+
+[27] Log opened at 2023-05-28 09:31:42.262444
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:31:45.134739
+
+[27] Log opened at 2023-05-28 09:32:37.578739
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:32:40.551653
+
+[27] Log opened at 2023-05-28 09:35:26.188763
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:35:33.843295
+
+[27] Log opened at 2023-05-28 09:36:34.614031
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:36:37.525610
+
+[27] Log opened at 2023-05-28 09:36:52.848229
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:36:57.873624
+
+[27] Log opened at 2023-05-28 09:37:03.502708
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 09:37:12.704592
+
+[27] Log opened at 2023-05-28 10:19:51.362592
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:20:05.184803
+
+[27] Log opened at 2023-05-28 10:24:23.741613
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:24:40.283900
+
+[27] Log opened at 2023-05-28 10:25:50.143506
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:26:02.635856
+
+[27] Log opened at 2023-05-28 10:28:33.916998
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:28:48.511757
+
+[27] Log opened at 2023-05-28 10:28:59.645666
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:29:09.719062
+
+[27] Log opened at 2023-05-28 10:30:00.945984
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:30:07.559662
+
+[27] Log opened at 2023-05-28 10:31:07.892184
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:31:21.456270
+
+[27] Log opened at 2023-05-28 10:32:12.534671
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:32:25.375292
+
+[27] Log opened at 2023-05-28 10:34:11.869360
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:34:25.475224
+
+[27] Log opened at 2023-05-28 10:35:46.086205
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:35:58.375487
+
+[27] Log opened at 2023-05-28 10:36:01.985484
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:36:12.752172
+
+[27] Log opened at 2023-05-28 10:36:56.935716
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:37:03.541493
+
+[27] Log opened at 2023-05-28 10:38:48.136782
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:39:04.906596
+
+[27] Log opened at 2023-05-28 10:39:10.324798
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:39:25.766388
+
+[27] Log opened at 2023-05-28 10:43:31.344079
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:43:44.162381
+
+[27] Log opened at 2023-05-28 10:59:08.660938
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 10:59:22.167348
+
+[27] Log opened at 2023-05-28 11:00:38.296775
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:00:47.060219
+
+[27] Log opened at 2023-05-28 11:07:51.884963
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:08:04.945716
+
+[27] Log opened at 2023-05-28 11:10:52.358454
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:11:06.815717
+
+[27] Log opened at 2023-05-28 11:12:36.227606
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:12:47.793174
+
+[27] Log opened at 2023-05-28 11:13:10.071203
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:13:19.809586
+
+[27] Log opened at 2023-05-28 11:13:42.301716
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:13:48.682130
+
+[27] Log opened at 2023-05-28 11:14:22.003014
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:14:34.524558
+
+[27] Log opened at 2023-05-28 11:18:02.587043
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:18:14.658227
+
+[27] Log opened at 2023-05-28 11:23:24.385370
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:23:38.357294
+
+[27] Log opened at 2023-05-28 11:23:53.502315
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:24:04.963493
+
+[27] Log opened at 2023-05-28 11:28:49.332714
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:29:04.356730
+
+[27] Log opened at 2023-05-28 11:34:37.077573
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:34:45.311288
+
+[27] Log opened at 2023-05-28 11:34:57.986344
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:35:05.259505
+
+[27] Log opened at 2023-05-28 11:36:54.864027
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:36:59.836288
+
+[27] Log opened at 2023-05-28 11:49:54.156048
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 11:50:02.747630
+
+[27] Log opened at 2023-05-28 12:55:24.692793
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 12:55:41.675164
+
+[27] Log opened at 2023-05-28 12:55:45.141190
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 12:55:52.470108
+
+[27] Log opened at 2023-05-28 13:02:07.550250
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:02:23.416023
+
+[27] Log opened at 2023-05-28 13:03:25.532567
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:03:30.574750
+
+[27] Log opened at 2023-05-28 13:03:40.136945
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:03:49.314595
+
+[27] Log opened at 2023-05-28 13:04:58.561636
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:05:13.425676
+
+[27] Log opened at 2023-05-28 13:06:01.170982
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:06:11.935067
+
+[27] Log opened at 2023-05-28 13:06:26.786102
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:06:37.046552
+
+[27] Log opened at 2023-05-28 13:09:36.136738
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:09:52.463663
+
+[27] Log opened at 2023-05-28 13:11:22.294619
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:11:35.858195
+
+[27] Log opened at 2023-05-28 13:13:02.177545
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:13:15.442511
+
+[27] Log opened at 2023-05-28 13:14:55.575081
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:15:08.477149
+
+[27] Log opened at 2023-05-28 13:24:59.232242
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:25:08.661395
+
+[27] Log opened at 2023-05-28 13:25:34.059982
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:25:44.922853
+
+[27] Log opened at 2023-05-28 13:26:04.176363
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:26:09.942795
+
+[27] Log opened at 2023-05-28 13:26:34.819171
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:26:43.265538
+
+[27] Log opened at 2023-05-28 13:28:57.648680
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:29:06.618416
+
+[27] Log opened at 2023-05-28 13:33:58.624051
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:34:15.958966
+
+[27] Log opened at 2023-05-28 13:35:51.495506
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:36:04.629938
+
+[27] Log opened at 2023-05-28 13:36:12.295734
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:36:22.594747
+
+[27] Log opened at 2023-05-28 13:37:01.713405
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:37:08.702473
+
+[27] Log opened at 2023-05-28 13:47:03.935293
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:47:16.776844
+
+[27] Log opened at 2023-05-28 13:47:28.132083
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:47:39.440834
+
+[27] Log opened at 2023-05-28 13:47:50.213526
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:47:55.905282
+
+[27] Log opened at 2023-05-28 13:48:06.214311
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] [Step Debug] INFO: Connecting to configured address/port: 172.17.0.1:9003.
+[27] [Step Debug] WARN: Creating socket for '172.17.0.1:9003', poll success, but error: Operation now in progress (29).
+[27] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.17.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[27] Log closed at 2023-05-28 13:48:13.385133
+
