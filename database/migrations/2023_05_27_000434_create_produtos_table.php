@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('produtos', function (Blueprint $table) {
             $table->id();
-            $table->string('nome');
+            $table->string('nome')->index();
             $table->timestamps();
         });
     }
@@ -23,6 +23,10 @@ return new class extends Migration
      */
     public function down(): void
     {
+        Schema::table('lista_de_compras', function (Blueprint $table) {
+            $table->dropIndex(['nome']); // Remove o índice aqui
+        });
+        
         Schema::dropIfExists('produtos');
     }
 };

@@ -1,0 +1,190 @@
+openapi: 3.0.1
+info:
+  title: Aztec API
+  description: API REST desenvolvida para o desafio técnico da Aztec
+  version: "1.0.0"
+
+servers:
+  - url: http://localhost/api
+
+paths:
+  /lista-de-compras:
+    post:
+      summary: Cria uma nova lista de compras.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ListaDeCompras'
+      responses:
+        '200':
+          description: Lista de compras criada com sucesso.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ListaDeCompras'
+  /lista-de-compras/{id}:
+    get:
+      summary: Retorna uma lista de compras por ID.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Uma lista de compras.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ListaDeCompras'
+    post:
+      summary: Duplica uma lista de compras.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Lista de compras duplicada com sucesso.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ListaDeCompras'
+  /lista-de-compras/{id}/adicionar-produto:
+    post:
+      summary: Adiciona um produto à lista de compras.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                produtos:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      id:
+                        type: integer
+                      quantidade:
+                        type: integer
+      responses:
+        '200':
+          description: Produto adicionado à lista de compras.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ListaDeCompras'
+  /lista-de-compras/{id}/adicionar-qtd-produto/{id_produto}:
+    patch:
+      summary: Aumenta a quantidade de um produto na lista de compras.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: id_produto
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                quantidade:
+                  type: integer
+      responses:
+        '200':
+          description: Quantidade de produto aumentada com sucesso.
+          content:
+            application/json:
+              schema:
+                type: string
+  /lista-de-compras/{id}/diminuir-qtd-produto/{id_produto}:
+    patch:
+      summary: Diminui a quantidade de um produto na lista de compras.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: id_produto
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                quantidade:
+                  type: integer
+      responses:
+        '200':
+          description: Quantidade de produto diminuída com sucesso.
+          content:
+            application/json:
+              schema:
+                type: string
+  /lista-de-compras/{id}/remover-produto/{id_produto}:
+    delete:
+      summary: Remove um produto da lista de compras.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: id_produto
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Produto removido com sucesso.
+          content:
+            application/json:
+              schema:
+                type: string
+components:
+  schemas:
+    ListaDeCompras:
+      type: object
+      properties:
+        id:
+          type: integer
+          description: ID único da lista de compras.
+        titulo:
+          type: string
+          description: Título da lista de compras.
+        produtos:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: integer
+              quantidade:
+                type: integer

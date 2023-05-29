@@ -5,7 +5,7 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'L5 Swagger UI',
+                'title' => 'Aztec API',
             ],
 
             'routes' => [
@@ -33,7 +33,7 @@ return [
                 /*
                 * Set this to `json` or `yaml` to determine which documentation file to use in UI
                 */
-                'format_to_use_for_docs' => env('L5_FORMAT_TO_USE_FOR_DOCS', 'json'),
+                'format_to_use_for_docs' => env('L5_FORMAT_TO_USE_FOR_DOCS', 'yaml'),
 
                 /*
                  * Absolute paths to directory containing the swagger annotations are stored.
@@ -50,7 +50,7 @@ return [
             /*
              * Route for accessing parsed swagger annotations.
             */
-            'docs' => 'docs',
+            'docs' => 'public',
 
             /*
              * Route for Oauth2 authentication callback.
@@ -77,7 +77,8 @@ return [
             /*
              * Absolute path to location where parsed annotations will be stored
             */
-            'docs' => storage_path('api-docs'),
+            // 'docs' => storage_path('api-docs'),
+            'docs' => base_path('public'),
 
             /*
              * Absolute path to directory where to export views
@@ -263,7 +264,8 @@ return [
                  * 'full' (expands the tags and operations),
                  * 'none' (expands nothing).
                  */
-                'doc_expansion' => env('L5_SWAGGER_UI_DOC_EXPANSION', 'none'),
+                // 'doc_expansion' => env('L5_SWAGGER_UI_DOC_EXPANSION', 'none'),
+                'doc_expansion' => env('L5_SWAGGER_UI_DOC_EXPANSION', 'list'),
 
                 /**
                  * If set, enables filtering. The top bar will show an edit box that
