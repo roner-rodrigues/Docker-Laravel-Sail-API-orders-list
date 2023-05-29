@@ -15,11 +15,6 @@ use App\Http\Controllers\ListaDeComprasController;
 |
 */
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
-});
-
-
 Route::get('/lista-de-compras/{id}', [ListaDeComprasController::class, 'getById']);
 
 Route::post('/lista-de-compras',     [ListaDeComprasController::class, 'create']);
